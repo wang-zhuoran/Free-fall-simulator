@@ -2,11 +2,11 @@
 ======================================================
 |                                                    |
 |  This Universe is designed by                      |
-|		  Zhuoran Wang                               |
+|		  Zhuoran Wang                       |
 |                                                    |
 | Every programmer is the god of his own universe.   |
 |                                                    |
-|       Updated Date: 2021.3.30  					 |
+|       Updated Date: 2021.3.30  		     |
 |           Version:1.0v                             |
 ======================================================
 */
@@ -60,9 +60,10 @@ int main()
 {
 	for(time = 0; time<20; time++)
 	{
-		if(y<=total_height){
-			system("cls");
-			show();
+		if(y<=total_height)
+		{
+		   system("cls");
+		   show();
 		} 
 	} 
 
