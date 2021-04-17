@@ -1,7 +1,7 @@
 # Free-fall-simulator
 ### Simulate a free fall ball using C++
 
-The ultimate goal: to achieve the free fall of the ball, bounce on the ground, flat throwing movement, oblique throwing movement, and consider energy loss and air resistance at the same time.   
+The ultimate goal: to achieve the free fall of the ball, bounce on the ground, flat throwing movement, oblique throwing movement, and consider energy loss and air resistance at the same time   
 最终目标：实现小球自由落体运动，触地反弹，平抛运动，斜抛运动，并同时考虑能量损失和空气阻力对运动的影响。  
 
 #### Version 1.0
